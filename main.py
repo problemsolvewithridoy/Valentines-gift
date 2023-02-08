@@ -1,4 +1,3 @@
-from turtle import *
 import turtle as tur
 tur.title("Problem Solve with Ridoy")
 
@@ -87,5 +86,7 @@ tur.fd (60)
 tur.right (90)
 tur.circle (200,60)
 
-tur.write("Happy Valentines Day *******",align="left",font=("Times New Roman",25, "bold"))
+
+tur.write("Happy Valentines Day", align= "left", font=("Times New Roman", 25, "bold"))
+
 tur.done()
