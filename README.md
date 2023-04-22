@@ -3,6 +3,12 @@
 
 Happy Valentine's day @all 
 
+"Valentine's Gift using Python" is a project that creates a beautiful rose using the Python programming language. This project is perfect for those who want to express their love and affection to their loved ones on Valentine's Day. With just a few lines of Python code, you can create a stunning rose that can be customized with different colors and styles.
+
+The project utilizes the Turtle graphics module in Python to draw the rose petals, stem, and leaves. The user can choose from a variety of colors to customize the rose and make it unique. The code is simple and easy to understand, making it a great project for beginners who are learning Python.
+
+By uploading this project on GitHub, others can easily access and learn from your code, as well as customize it to create their own unique Valentine's Day gift using Python.
+
 In this project, I have make a rose using python turtle module. It is very eassy to use turtle so let's start...............
 
 To make this project you need to follow this step:-
